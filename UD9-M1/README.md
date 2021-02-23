@@ -10,7 +10,7 @@
 
 ### 1. Descripción:
 
-Ejercicio relacionado con la herencia en JAVA.
+Ejercicio M-1 relacionado con la herencia en JAVA.
 
 ### 2. Link a un demo con el proyecto desplegado:
 ```
