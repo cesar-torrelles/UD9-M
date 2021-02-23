@@ -1,7 +1,24 @@
-# JavaAngular_Unidad09_Jobs
-Actividades de la unidad 09-M del curso Java y Angular
+# Unidad 9-M - Herencia en JAVA
 
-Autores:
-Cesar Torrelles
-Ingrid Dominguez
-Vyacheslav Khaydorov
+### Equipo de desarrollo:
+
+| Developer | Rama | Rol | Fecha Incorporación | Proyecto | Versión |
+| --- | :---:  | :---:  | :---:  | :---: | :---:  |
+| Ingrid Dominguez | Dev 1 | FullStack Developer | 01/02/2021 | UD9-M  | 1.0  |
+| Cesar Torrelles | Dev 2 | FullStack Developer | 01/02/2021 | UD9-M  | 1.0  | 
+| Vyacheslav Khaydorov | Dev 3 | FullStack Developer| 01/02/2021 | UD9-M  | 1.0  |
+
+### 1. Descripción:
+
+Ejercicios 9-M relacionado con la herencia en JAVA.
+
+### 2. Link a un demo con el proyecto desplegado:
+```
+https://github.com/cesar-torrelles/UD9-M
+```
+### 3. Lista de herramientas para poder ejecutarlo:
+```
+- java version 1.8.0_281
+- Eclipse version 2020-06
+```
+
